@@ -1,7 +1,5 @@
 import random
 import my_def
-import math
-
 weather_month = []
 length = 365
 
